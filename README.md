@@ -1,4 +1,6 @@
-# fdrs README
+# FDRS README
+
+> See https://github.com/Ery4z/foam-dynamic-relationships-snipets
 
 This is the README for the "fdrs" extension. "fdrs" (Foam Dynamic Relationship System) is a Visual Studio Code extension designed to enhance Markdown file management within the VS Code environment, especially for users who manage a large number of Markdown files, such as in a wiki or documentation project.
 
